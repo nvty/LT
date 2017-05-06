@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLTaiKhoan">
+  <DataContextMoniker Name="/QLTaiKhoanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0d0e1f5d-67bc-437a-8624-542a8cf22454" absoluteBounds="1.125, 2, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLTaiKhoanDataContext/TAIKHOAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6478add-672b-481e-8586-9093591dcf14" absoluteBounds="1.1399999999999997, 2.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,6 @@
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\bin\Debug\DAL.dll.config
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\bin\Debug\DAL.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\bin\Debug\DAL.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\obj\Debug\DAL.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,17 @@
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\UngDung_QL_TaiKhoan.exe.config
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\UngDung_QL_TaiKhoan.exe
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\UngDung_QL_TaiKhoan.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.csprojResolveAssemblyReference.cache
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.frmDangNhap.resources
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.frmQLTaiKhoan.resources
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.Properties.Resources.resources
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.csproj.GenerateResource.Cache
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.exe
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\BUS.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\DAL.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\BUS.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\DAL.pdb
+D:\TaiKhoan\LT\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\bin\Debug\UngDung_QL_TaiKhoan.exe.config
+D:\TaiKhoan\LT\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.exe
+D:\TaiKhoan\LT\UngDung_QL_TaiKhoan\UngDung_QL_TaiKhoan\obj\Debug\UngDung_QL_TaiKhoan.pdb

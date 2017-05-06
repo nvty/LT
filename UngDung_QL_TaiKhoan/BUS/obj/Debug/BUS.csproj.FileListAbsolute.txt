@@ -1,0 +1,7 @@
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\bin\Debug\BUS.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\bin\Debug\BUS.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\bin\Debug\DAL.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\bin\Debug\DAL.pdb
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\obj\Debug\BUS.dll
+D:\TaiKhoan\UngDung_QL_TaiKhoan\BUS\obj\Debug\BUS.pdb
